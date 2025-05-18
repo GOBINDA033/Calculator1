@@ -1,2 +1,2 @@
 # Calculator1
-this is build in html5,css,js
+This is build by using HTMl5, CSS, JS
